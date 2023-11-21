@@ -13,9 +13,14 @@ Game Sections: This game has several sections reflecting the types of pages seen
 
 Custom-Built: Created without the use of pre-existing templates, the logic and functionality for this game is custom coded and uses various media resources to bring the game to life.
 
-## How to Play
-* Download or clone this repository to your local machine. 
-* Navigate to the downloaded repository and open the story.html file in your web browser.
-* Click on “Start” to launch the game.
-* Use the arrow keys to move the character left and right. Press the space bar or up arrow key to jump.
-* As you progress, jump and hit the interactive boxes. Each box reveals more about my skills, experiences, and the projects I've worked on.
+## Launch the live game
+1. Click [here](https://portfoliogame.dylanhedges.com/) to launch the live version of the game.
+
+## Launch the game locally
+1. Download or clone this repository to your local machine. 
+2. Navigate to the downloaded repository and open the story.html file in your web browser.
+
+## How to play
+1. Click on “Start” to start the game.
+2. Use the arrow keys to move the character left and right. Press the space bar or up arrow key to jump.
+3. As you progress, jump and hit the interactive boxes. Each box reveals more about my skills, experiences, and the projects I've worked on.
